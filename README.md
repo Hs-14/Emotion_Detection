@@ -23,8 +23,8 @@ As per the emotion detected over a short period of time, it will recommend song 
 
 ## How to use?
 Download the data.rar file from the drive link and extract it to the same folder as of main.py file
-After extracting run main.py using IDLE, the program will run detecting the emotions. Get recommende
-To play the recommended music press 'P' and to stop the music enter stop in IDLE.
+After extracting run main.py using Python, the program will run detecting the emotions.
+To play the recommended music press 'P' and to stop the music enter stop in Terminal.
 
 Drive link : https://drive.google.com/file/d/1EVJGU710bxcRkjwK1yamrxtaKEIbrfdN/view?usp=sharing
 

@@ -1,0 +1,5 @@
+numpy==1.17.4
+opencv-python==4.3.0.38
+tensorflow==2.5.2
+pygame==2.1.2
+matplotlib==3.5.1

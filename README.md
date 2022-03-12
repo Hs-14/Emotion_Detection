@@ -1,14 +1,20 @@
 # Music-Recommendation-based-on-Emotion-Detection
 It will detect emotion according to the facial expression and will Recommend a song based on detected emotion after the user hit the 'P' KEY on Keyboard. The user can stop the music by writing stop in IDLE 
 ## Brief Intro
-The main goal of our project is to detect the emotions based on facial expressions into seven categories and recommend the music accordingly,using deep CNN. Our model is trained on the FER-2013 dataset which we got from ICML.In this dataset we have 35887 grayscale, 48x48 sized face images with seven emotions 
-a. Angry 
-b. Disgusted
-c. Fearful 
-d. Happy 
-e. Neutral 
-f. Sad  
-g. Surprised
+The main goal of our project is to detect the emotions based on facial expressions into seven categories and recommend the music accordingly,using deep CNN. Our model is trained on the FER-2013 dataset which we got from ICML.In this dataset we have 35887 grayscale, 48x48 sized face images with seven emotions:
+1. Angry
+2. Disgusted
+3. Fearful
+4. Happy
+5. Neutral
+6. Sad
+7. Surprised
+
+As per the emotion detected over a short period of time, it will recommend song accordingly from the following 4 categories:
+1. Happy
+2. Sad
+3. Energetic
+4. Calm
 
 ## Requirements
 1. Opencv

@@ -25,4 +25,8 @@ Drive link : https://drive.google.com/file/d/1EVJGU710bxcRkjwK1yamrxtaKEIbrfdN/v
 ## Algorithms Used
 The haar cascade method is used to detect faces in each frame of the webcam feed.The region of image containing the face is resized to 48x48 and  passed as input to the Neural Network.The network outputs a list of soft scores for the seven classes of emotions and the emotion with maximum score will be displayed on the screen.
 
-
+## Contributors
+1. Harsh Verma (2nd year EE btech)
+2. Nishir Agrawal (2nd year EE btech)
+3. Kartik Aggarwal (1st year EE btech)
+4. Mimat Singh (1st year EE btech)
